@@ -1,0 +1,11 @@
+{
+	"name": "lz-tslib-interfaces",
+	"version": "0.0.1",
+	"description": "General interfaces written in typscript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Luzian Zagadinow <luzianz@outlook.com> (https://github.com/luzianz)",
+	"license": "MIT"
+}

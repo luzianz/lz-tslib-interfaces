@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.npmignore
+!*.d.ts
+!package.json
+!README.md

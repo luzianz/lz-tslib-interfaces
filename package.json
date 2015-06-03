@@ -1,6 +1,6 @@
 {
 	"name": "lz-tslib-interfaces",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "General interfaces written in typscript",
 	"main": "index.js",
 	"scripts": {

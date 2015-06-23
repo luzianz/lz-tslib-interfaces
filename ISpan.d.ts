@@ -1,5 +1,5 @@
 ﻿interface ISpan {
-	getStartIndex(): number;
-	getLength(): number;
-	getEndIndex(): number;
+	startIndex: number;
+	length: number;
+	endIndex: number;
 }

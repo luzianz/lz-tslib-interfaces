@@ -1,5 +1,5 @@
 ﻿/**
- * Provides a mechanism for releasing resources.
+ * Defines a mechanism for releasing resources.
  */
 interface IDisposable {
 	dispose();

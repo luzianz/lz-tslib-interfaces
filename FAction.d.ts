@@ -1,6 +1,0 @@
-﻿/**
- * General action
- */
-interface FAction {
-	();
-}

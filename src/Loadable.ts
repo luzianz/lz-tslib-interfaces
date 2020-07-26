@@ -1,9 +1,7 @@
-/// <reference path="IPromise.d.ts" />
-
 /**
  * Represents an object which needs to load resources via I/O (network, file system, etc.)
  */
-interface ILoadable {
+export default interface Loadable {
 	/** Load resources. */
-	Load(): IPromise<void>;
+	load(): Promise<void>;
 }

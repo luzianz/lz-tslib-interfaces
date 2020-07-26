@@ -1,7 +1,7 @@
 ﻿/**
  * Strategy for aggregation.
  */
-interface FAggregator<T> {
+export default interface Aggregator<T> {
 	/**
 	 * @param aggregation what has been aggregated thus far.
 	 * @param nextValue next unaggregated value to be aggregated.

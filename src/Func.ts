@@ -1,6 +1,6 @@
 ﻿/**
  * General function with an input and output.
  */
-interface FFunc<I, O> {
+export default interface Func<I, O> {
 	(input: I): O;
 }

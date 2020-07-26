@@ -1,7 +1,7 @@
 ﻿/**
  * Compare two objects for rank.
  */
-interface FComparer<T> {
+export default interface Comparer<T> {
 	/**
 	 * @return
 	 *     0 if objects are equal.

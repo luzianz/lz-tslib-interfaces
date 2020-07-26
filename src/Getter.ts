@@ -1,6 +1,6 @@
 ﻿/**
  * Gets a value.
  */
-interface FGetter<T> {
+export default interface Getter<T> {
 	(): T;
 }

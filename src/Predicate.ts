@@ -1,6 +1,6 @@
 ﻿/**
  * Determines whether the subject meets the criteria the predicate represents.
  */
-interface FPredicate<T> {
+export default interface Predicate<T> {
 	(subject: T): boolean;
 }

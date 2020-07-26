@@ -1,6 +1,7 @@
 *
 !.gitignore
 !.npmignore
-!*.d.ts
+!src/**/*
 !package.json
 !README.md
+!tsconfig.json

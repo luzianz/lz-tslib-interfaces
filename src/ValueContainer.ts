@@ -1,6 +1,6 @@
 ﻿/**
  * Represents a container which provides and governs a value
  */
-interface IValueContainer<T> {
+export default interface ValueContainer<T> {
 	value: T;
 }

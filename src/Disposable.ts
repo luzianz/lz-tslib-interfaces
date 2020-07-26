@@ -1,6 +1,6 @@
 ﻿/**
  * Defines a mechanism for releasing resources.
  */
-interface IDisposable {
-	dispose();
+export default interface Disposable {
+	dispose(): void;
 }
